@@ -136,6 +136,7 @@ def test_get_longest_same_div_count():
 
 
 def menu():
+    test_get_longest_all_even()
     test_get_longest_same_div_count()
     test_get_longest_same_bit_counts()
     should_run = True
